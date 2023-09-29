@@ -7,12 +7,11 @@ My personal repository.
 🔭 I'm a passionate web developer specializing in front-end development with React. My goal is to build elegant, intuitive, and efficient web applications that deliver exceptional user experiences.
 
 🛠️ Technologies & Tools:
-- Front-end: React, Redux, JavaScript (ES6+), HTML5, CSS3
-- Back-end: Node.js, Express.js, MongoDB
+- Front-end: HTML5, CSS3 , React, JavaScript (ES6+), Redux, Typescript
 - UI/UX: Tailwindcss
 - Version Control: Git, GitHub
 - Deployment: Heroku, Netlify
-- Testing: Jest, React Testing Library
+- Testing: Jest
 
 🌱 I'm constantly learning and exploring new technologies to stay up-to-date with the rapidly evolving web development landscape. I believe in the power of continuous improvement and never settling for mediocrity.
 
@@ -29,10 +28,7 @@ Hi there!
 🤝 I'm looking to collaborate on Machine Learning, Data Science, Satellite Imagery Analysis, and Architectural Designs.
 
 🌐 Socials:
-Instagram LinkedIn Medium
+Instagram [LinkedIn](https://www.linkedin.com/in/muhammadshakkeer/) Medium
 
-💻 Tech Stack:
-C LaTeX Python R Google Cloud Apache Airflow MicrosoftSQLServer MySQL SQLite Adobe Lightroom Keras NumPy Pandas Plotly scikit-learn SciPy TensorFlow Docker
 
-📊 GitHub Stats:
 
