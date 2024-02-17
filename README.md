@@ -21,16 +21,7 @@ My personal repository.
 
 📫 Let's connect! Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/muhammadshakkeer/) or [Email](Muhammadshakkeer3@gmail.com).
 
-🌟 Check out my latest projects and contributions below. Happy coding! 😄
-
-syamkakarla98/README.md
-Hi there! 
-💫 About Me:
-🔭 I'm currently working as a "Data Engineer".
-🤝 I'm looking to collaborate on Machine Learning, Data Science, Satellite Imagery Analysis, and Architectural Designs.
-
-🌐 Socials:
-Instagram [LinkedIn](https://www.linkedin.com/in/muhammadshakkeer/) Medium
+🌟 Check out my latest projects and contributions below.
 
 
 
