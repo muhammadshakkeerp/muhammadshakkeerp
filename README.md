@@ -34,14 +34,10 @@ My personal repository.
 📫 Let's connect! Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/muhammadshakkeer/) or [Email](Muhammadshakkeer3@gmail.com).
 ### Connect with Me:
 
-<a href="https://www.linkedin.com/in/muhammadshakkeer/" target="_blank"><img src="https://github.com/MuhammadShakkeer2030/MuhammadShakkeer2030/assets/121001685/f1a31198-ffb2-41f4-895d-5a3645a3a89f" alt="LinkedIn" width="24" height="24" style="width: 70px; height: 70px;"></a>
-<a href="https://www.instagram.com/the_muhammad_shakkeer/" target="_blank"><img src="https://github.com/MuhammadShakkeer2030/MuhammadShakkeer2030/assets/121001685/b6b8d2da-eeac-49e6-9c21-588a2709e208" alt="Instagram" width="24" height="24" style="width: 70px; height: 70px;"></a>
-<a href="mailto:muhammadshakkeer3@gmail.com" target="_blank"><img src="https://github.com/MuhammadShakkeer2030/MuhammadShakkeer2030/assets/121001685/713d08d0-58d2-4a01-b737-1404ffeb74a9" alt="Gmail" width="24" height="24" style="width: 70px; height: 70px;"></a>
-<a href="https://twitter.com/the_shakkeerP" target="_blank"><img src="https://github.com/MuhammadShakkeer2030/MuhammadShakkeer2030/assets/121001685/c78372d0-ba0a-45b5-872a-f30a7b205d56" alt="Twitter" width="24" height="24" style="width: 70px; height: 70px;"></a>
-
-
-<!-- Add more social media links as needed -->
-
+<a href="https://www.linkedin.com/in/muhammadshakkeer/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/MuhammadShakkeer2030/MuhammadShakkeer2030/assets/121001685/f1a31198-ffb2-41f4-895d-5a3645a3a89f" alt="LinkedIn" width="24" height="24" style="width: 70px; height: 70px;"></a>
+<a href="https://www.instagram.com/the_muhammad_shakkeer/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/MuhammadShakkeer2030/MuhammadShakkeer2030/assets/121001685/b6b8d2da-eeac-49e6-9c21-588a2709e208" alt="Instagram" width="24" height="24" style="width: 70px; height: 70px;"></a>
+<a href="mailto:muhammadshakkeer3@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/MuhammadShakkeer2030/MuhammadShakkeer2030/assets/121001685/713d08d0-58d2-4a01-b737-1404ffeb74a9" alt="Gmail" width="24" height="24" style="width: 70px; height: 70px;"></a>
+<a href="https://twitter.com/the_shakkeerP" target="_blank" rel="noopener noreferrer"><img src="https://github.com/MuhammadShakkeer2030/MuhammadShakkeer2030/assets/121001685/c78372d0-ba0a-45b5-872a-f30a7b205d56" alt="Twitter" width="24" height="24" style="width: 70px; height: 70px;"></a>
 
 
 
