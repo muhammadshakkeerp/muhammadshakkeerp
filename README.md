@@ -30,7 +30,6 @@
 
 💼 Currently, I'm open to exciting opportunities to work on innovative projects and collaborate with like-minded developers.
 
-📫 Let's connect! Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/muhammadshakkeer/) or [Email](Muhammadshakkeer3@gmail.com).
 ### Connect with Me:
 
 <a href="https://www.linkedin.com/in/muhammadshakkeer/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/MuhammadShakkeer2030/MuhammadShakkeer2030/assets/121001685/f1a31198-ffb2-41f4-895d-5a3645a3a89f" alt="LinkedIn" width="24" height="24" style="width: 70px; height: 70px;"></a>
