@@ -1,5 +1,4 @@
 # MuhammadShakkeer
-My personal repository.
 👋 Hello, I'm Muhammad Shakkeer!
 
 🌐 Full Stack Web Developer | React Enthusiast 🚀
