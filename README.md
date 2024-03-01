@@ -1,4 +1,4 @@
-# MuhammadShakkeer
+# Muhammad Shakkeer
 👋 Hello, I'm Muhammad Shakkeer!
 
 🌐 Full Stack Web Developer | React Enthusiast 🚀
