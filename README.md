@@ -38,6 +38,9 @@
 <a href="https://twitter.com/the_shakkeerP" target="_blank" rel="noopener noreferrer"><img src="https://github.com/MuhammadShakkeer2030/MuhammadShakkeer2030/assets/121001685/c78372d0-ba0a-45b5-872a-f30a7b205d56" alt="Twitter" width="24" height="24" style="width: 70px; height: 70px;"></a>
 
 
+![MuhammadShakkeer2030's Stats](https://github-readme-stats.vercel.app/api?username=MuhammadShakkeer2030&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+![MuhammadShakkeer2030's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadShakkeer2030&theme=onedark&hide_border=true)
+![MuhammadShakkeer2030's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadShakkeer2030&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 
 🌟 Check out my latest projects and contributions below.
 
