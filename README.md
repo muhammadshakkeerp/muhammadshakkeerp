@@ -1,16 +1,11 @@
-# Muhammad Shakkeer
-👋 Hello, I'm Muhammad Shakkeer!
-
+# 👋 Hello, I'm Muhammad Shakkeer!
 🌐 Full Stack Web Developer | React Enthusiast 🚀
 
-🔭 I'm a passionate web developer specializing in front-end development with React. My goal is to build elegant, intuitive, and efficient web applications that deliver exceptional user experiences.
-
 ## 🛠️ Technologies & Tools:
-
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -26,10 +21,6 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-🌱 I'm constantly learning and exploring new technologies to stay up-to-date with the rapidly evolving web development landscape. I believe in the power of continuous improvement and never settling for mediocrity.
-
-💼 Currently, I'm open to exciting opportunities to work on innovative projects and collaborate with like-minded developers.
-
 ### Connect with Me:
 
 <a href="https://www.linkedin.com/in/muhammadshakkeer/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/MuhammadShakkeer2030/MuhammadShakkeer2030/assets/121001685/f1a31198-ffb2-41f4-895d-5a3645a3a89f" alt="LinkedIn" width="24" height="24" style="width: 70px; height: 70px;"></a>
@@ -41,7 +32,7 @@
 ![muhammadshakkeerp's Stats](https://github-readme-stats.vercel.app/api?username=muhammadshakkeerp&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
 ![muhammadshakkeerp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadshakkeerp&theme=gruvbox&hide_border=false) ![muhammadshakkeerp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshakkeerp&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
-## 🌟 Check out my latest projects and contributions below. 👇
+## ------------🌟 Check out my latest projects and contributions below. 👇------------
 
 
 
