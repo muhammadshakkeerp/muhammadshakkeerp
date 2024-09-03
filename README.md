@@ -32,7 +32,7 @@
 ![muhammadshakkeerp's Stats](https://github-readme-stats.vercel.app/api?username=muhammadshakkeerp&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
 ![muhammadshakkeerp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadshakkeerp&theme=gruvbox&hide_border=false) ![muhammadshakkeerp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshakkeerp&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
-## ------------🌟 Check out my latest projects and contributions below. 👇------------
+## -----------🌟 Check out my latest projects and contributions below. 👇-----------
 
 
 
